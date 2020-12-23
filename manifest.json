@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "3.6.3",
+  "metadata": {
+    "appmode": "static",
+    "primary_rmd": null,
+    "primary_html": "cole-square.jpg",
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": null,
+  "files": {
+    "cole-square.jpg": {
+      "checksum": "185159ce740cd20422cc8c435f6915d1"
+    }
+  },
+  "users": null
+}
